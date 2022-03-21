@@ -1,0 +1,91 @@
+.one{
+    width:500px ;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    background-color: blueviolet;
+    background-color: (138, 43, 226);
+    background-color: #9933CC;
+    
+}
+.two{
+    width:500px ;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #D6CCE3;
+    background-color: (214,204,227);
+    background-color: (266,10,85);
+    
+}
+.three{
+    width:500px ;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    background-color:#DFD5EC ;
+    background-color:(223,213,236) ;
+    background-color:(266,10,88);
+    
+}
+.shape1{
+    width: 400px;
+    height: 400px;
+    background-image: url(8.png);
+    background-repeat: no-repeat;
+}
+.shape2{
+    width: 400px;
+    height: 400px;
+    background-image: url(8.png);
+    background-repeat: repeat-x;
+}
+.shape3{
+    width: 400px;
+    height: 400px;
+    background-image: url(8.png);
+    background-repeat:repeat-y;
+}
+.shape4{
+    width: 400px;
+    height: 400px;
+    background-image: url(8.png);
+    background-repeat:repeat;
+}
+.shape1{
+    width: 400px;
+    height: 400px;
+    background-image: url(8.png);
+    background-repeat: no-repeat;
+}
+.shape2{
+    width: 400px;
+    height: 400px;
+    background-image: url(8.png);
+    background-repeat: repeat-x;
+    float: right;
+}
+.shape3{
+    width: 400px;
+    height: 400px;
+    background-image: url(8.png);
+    background-repeat:repeat-y;
+    float: left;
+}
+.shape4{
+    width: 400px;
+    height: 400px;
+    background-image: url(8.png);
+    background-repeat:repeat;
+}
+
+
+
+
+
+
+
+
+
+
+
